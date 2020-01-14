@@ -1,3 +1,3 @@
 import GStem
 
-GStem.Run("./gensim_word2vec.model")
+GStem.Run("./gensim_word2vec_example.model")
